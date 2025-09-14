@@ -191,7 +191,7 @@ async def next_page(bot, query):
                        InlineKeyboardButton(
                            "⚜️ 𝐑𝐞𝐦𝐨𝐯𝐞 𝐚𝐝𝐬 ⚜️", url=f"https://t.me/{temp.U_NAME}?start=premium"),
                        InlineKeyboardButton(
-                           "Sᴇɴᴅ Aʟʟ", Uᴛɴɪ ʙʜɪ ᴋʏᴀᴀ Jᴀʟᴅɪ ʜᴀɪ Rᴜᴋᴏ ᴢᴀʀᴀ 😂")
+                           "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}")")
 
                    ]
                    )
