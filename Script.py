@@ -216,7 +216,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://telegram.me/Requiest_your_faw">{file_name}</a>~𝐃𝐫𝐚𝐠𝐨𝐧 𝐅𝐢𝐫𝐞 🐉</b>\n\n<b>⚜️ Powered By : <a href="https://t.me/+A_p2XwI6s0A5MDY1">[ @MagicOfGroup ]</a></b>"""
+    CAPTION = """<b><a href="https://telegram.me/Requiest_your_faw">{file_name}</a>➥𝐃𝐫𝐚𝐠𝐨𝐧 𝐅𝐢𝐫𝐞 🐉</b>\n\n<b>⚜️ Powered By : <a href="https://t.me/+A_p2XwI6s0A5MDY1">[ @MagicOfGroup ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
