@@ -107,11 +107,11 @@ TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/how_to_open_dragon_links") 
 SHORTENER_API = environ.get("SHORTENER_API", "2fc7c105fb2b83d18dbf4adf6f155274ea0b9e78ea0093d00514b9f4ba39460e") # Shortener API key
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "vdiskpro.com") # Shortener website
 
-SHORTENER_API2 = environ.get("SHORTENER_API2", "a7ac9b3012c67d7491414cf272d82593c75f6cbb")  # Shortener API key for second website
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "omegalinks.in") # Shortener website for second website
+SHORTENER_API2 = environ.get("SHORTENER_API2", "2fc7c105fb2b83d18dbf4adf6f155274ea0b9e78ea0093d00514b9f4ba39460e")  # Shortener API key for second website
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "vdiskpro.com") # Shortener website for second website
 
-SHORTENER_API3 = environ.get("SHORTENER_API3", "a7ac9b3012c67d7491414cf272d82593c75f6cbb")  
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "omegalinks.in") # Shortener website for third website
+SHORTENER_API3 = environ.get("SHORTENER_API3", "2fc7c105fb2b83d18dbf4adf6f155274ea0b9e78ea0093d00514b9f4ba39460e")  
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "vdiskpro.com") # Shortener website for third website
 
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "1200")) # Time gap for two-step verification in seconds (default: 20 minutes)
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "54000"))    
